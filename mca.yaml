@@ -1,9 +1,9 @@
 pricing: 2000
 back_service1:
   login:
-    username_demo: mca1
+    username_demo: developbranch
     password_demo: mcapassword1
-    url: https://www.mca.com/token/auth
+    url: https://www.mca-dev.branch.com/token/auth
 source: mca.yaml
 logging:
   level:
