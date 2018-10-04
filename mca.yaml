@@ -1,0 +1,10 @@
+pricing: 2000
+back_service1:
+  login:
+    username_demo: mca1
+    password_demo: mcapassword1
+    url: https://www.mca.com/token/auth
+source: mca.yaml
+logging:
+  level:
+    root: INFO
