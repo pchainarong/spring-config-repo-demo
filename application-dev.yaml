@@ -1,0 +1,10 @@
+pricing: 5000
+back_service1:
+  login:
+    username_demo: dev1
+    password_demo: dev1
+    url: http://dev.abc.com/token/auth
+source: application-dev.yaml
+logging:
+  level:
+    root: DEBUG
