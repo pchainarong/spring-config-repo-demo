@@ -1,4 +1,4 @@
-pricing: 3000
+pricing: 500000
 back_service1:
   login:
     username_demo: mcadev1
@@ -7,4 +7,4 @@ back_service1:
 source: mca-dev.yaml
 logging:
   level:
-    root: DEBUG
+    root: INFO
