@@ -1,0 +1,10 @@
+pricing: 3000
+back_service1:
+  login:
+    username_demo: mcadev1
+    password_demo: password1
+    url: http://mca-dev.com/token/auth
+source: mca-dev.yaml
+logging:
+  level:
+    root: DEBUG
