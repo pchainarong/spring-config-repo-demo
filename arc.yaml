@@ -1,0 +1,4 @@
+secretpassword: '{cipher}AQICAHh6hZ2zZEpKn89vX6SDYyP2WPXqJFvpxk4RVH1GLsDmYwFr+b7AUc9Qz5Fdvio9wIyiAAAAazBpBgkqhkiG9w0BBwagXDBaAgEAMFUGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMsQto0w903pw2hLibAgEQgCj+z6VUtjBrpWHY/Q+PoR34JVvsaPBmTm8XxbxeIbfO9b/I+T+E6pzL'
+source: arc.yaml
+app:
+  name: arc
