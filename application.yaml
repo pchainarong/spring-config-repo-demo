@@ -8,3 +8,7 @@ source: application.yaml
 logging:
   level:
     root: DEBUG
+aws:
+  region: ap-southeast-2
+  kms:
+    keyId: arn:aws:kms:ap-southeast-2:155347622759:key/812d7887-eebc-4194-b2b9-4b40cd6a3efa
